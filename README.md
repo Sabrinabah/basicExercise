@@ -1,2 +1,2 @@
 # basicExercise
-Atividades iniciais de logica de programação idealizada pelo curso e executadas por mim.
+Initial programming logic activities designed by the course and performed by me.
